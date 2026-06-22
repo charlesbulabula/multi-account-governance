@@ -270,4 +270,4 @@ class GovernanceStack(Stack):
             },
         )
 
-# _r 20260611143403-bd29f2ef
+# _r 20260622160713-3b2b5779
